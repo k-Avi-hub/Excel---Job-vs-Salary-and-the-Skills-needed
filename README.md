@@ -1,5 +1,5 @@
 # Excel - Job vs Salary and the Skills needed
-My project demonstrating my excel skills where i have analysed different job skills , their median salary based on respective countries.   
+My project demonstrating my excel skills where i analysed different job skills , their median salary based on respective countries.   
 
 In this project i have used POWER QUERY, POWER PIVOT AND DAX to create meaningful data and charts to analyse different job roles, their median salary based on the respective countries and the respective skills required for the job. I have also analysed the relationship between the Skills required v/s the respective salary. 
 # QUESTIONS ANALYSED  
