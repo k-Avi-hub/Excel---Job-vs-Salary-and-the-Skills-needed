@@ -14,6 +14,6 @@ In this project i have used POWER QUERY, POWER PIVOT AND DAX to create meaningfu
 4. POWER QUERY  
 
 # **Some preview of my analysis**  
-whole file can be accessed here 
+whole file can be accessed here https://github.com/k-Avi-hub/Excel---Job-vs-Salary-and-the-Skills-needed/tree/main
 <img width="1441" height="512" alt="Screenshot 2026-06-12 154058" src="https://github.com/user-attachments/assets/37b12c98-30c5-4ae1-b055-0e6e74f9ea47" />
 <img width="1397" height="357" alt="Screenshot 2026-06-12 154116" src="https://github.com/user-attachments/assets/99daca02-9720-4471-81f4-647214ba0dc2" />
